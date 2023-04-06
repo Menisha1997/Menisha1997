@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Menisha</h1>
-<h3 align="center">A passionate FullStack developer from Sri Lanka.</h3>
+<h3 align="center">A passionate 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from Sri Lanka.</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on my Skills.<br>
