@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Menisha</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F87900&size=35&center=true&vCenter=true&lines=Hi,+There!+👋;Menisha+here...;Nice+to+meet+you+😄!">
+  </a>
+</h1>
 <h3 align="center">A passionate 𝐅𝐮𝐥𝐥𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from Sri Lanka.</h3>
 
 # 💫 About Me:
